@@ -2,7 +2,7 @@
 
 BS Data Analytics & Applied Computer Science  
 MBA Candidate  
-📍 German studying and working in the United States
+📍 German - studying and working in the United States
 
 ---
 
