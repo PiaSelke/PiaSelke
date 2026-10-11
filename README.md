@@ -26,7 +26,11 @@ My current work focuses on volleyball performance analytics, automated scouting 
 
 ---
 
-## Featured Projects (Coming Soon)
+## Featured Projects
+
+**[Travel Journal](https://github.com/PiaSelke/TravelApp)** — Cross-platform Flutter app for planning trips, journaling journeys, and tracking personal travel statistics. University software engineering capstone project.
+
+More repositories in preparation:
 
 Volleyball Analytics Platform
 
